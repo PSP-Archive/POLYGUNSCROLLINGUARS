@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="nave">
+</Property><Property Name="Archivo de la solución" Value="C:\Pspdev\JGE\Projects\nave\nave.sln">
+</Property><Property Name="Date" Value="sábado, 11 de septiembre de 2010">
+</Property><Property Name="Time" Value="22:36">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="nave.sln" Description="La copia C:\Pspdev\JGE\Projects\nave\nave.sln.old del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="nave" Source="nave.vcproj" Description="Ya no se permite la implementación web en el servidor de IIS local. La herramienta de generación de implementación web se ha quitado de la configuración del proyecto.">
+</Event><Event ErrorLevel="1" Project="nave" Source="nave.vcproj" Description="Esta aplicación se ha actualizado para incluir la configuración relacionada con la característica Control de cuentas de usuario (UAC) de Windows Vista. De manera predeterminada, cuando se ejecuta en Windows Vista con el Control de cuentas de usuario habilitado, la aplicación está marcada para que se ejecute con los mismos privilegios que el proceso que la inició y para que no pueda ejecutarse con virtualización. Puede cambiar la configuración relativa al Control de cuentas de usuario desde las páginas de propiedades del proyecto.">
+</Event><Event ErrorLevel="0" Project="nave" Source="nave.vcproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto 'C:\Pspdev\JGE\Projects\nave\nave.vcproj.8.00.old'.">
+</Event><Event ErrorLevel="0" Project="nave" Source="nave.vcproj" Description="Proyecto actualizado correctamente.">
+</Event><Event ErrorLevel="3" Project="nave" Source="nave.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="JGE" Source="..\..\JGE\JGE.vcproj" Description="Proyecto actualizado correctamente.">
+</Event><Event ErrorLevel="3" Project="JGE" Source="..\..\JGE\JGE.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="nave.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="nave.sln" Description="Converted">
+</Event></UpgradeLog>
